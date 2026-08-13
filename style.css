@@ -1,0 +1,13 @@
+*
+.especial{
+    text-decoration: none;
+    color:black;
+    font-weight:bolder;
+}
+.especial:active{
+    color:gray;
+    font-weight: bolder;
+}
+.especial:hover{
+    color:lightskyblue;
+}
