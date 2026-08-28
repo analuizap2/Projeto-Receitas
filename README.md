@@ -1,2 +1,2 @@
 # Projeto Receitas
-# Utilizando somente HTML.
+# Um site inspirado na culinária francesa
