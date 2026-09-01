@@ -10,12 +10,8 @@
 :root{
     --AzulFrances:#1D3557;
     --Vermelho:#C1121F;
-<<<<<<< HEAD
-    --Creme:#F8F1E5;
-=======
     --Creme:#F7E7CE;
     --branco:#FFFFFF;
->>>>>>> a45d982 (adicionando estrutura do site, imagens , links e estilos)
     --fontefrances:'Playfair',serif;
     --fontedestaque:'Montserrat'
 }
@@ -24,28 +20,13 @@
     padding: 0px;
 }
 body{
-<<<<<<< HEAD
-    background-color: var(--Creme);
-=======
     background-color:var(--Creme);
->>>>>>> a45d982 (adicionando estrutura do site, imagens , links e estilos)
 }
 header{
     font-family:var(--fontefrances);
     margin: auto;
     text-align: center;
     background-image: linear-gradient(to right,var(--AzulFrances),#fff,var(--Vermelho));
-<<<<<<< HEAD
-}
-header > h1{
-    padding: 20px;
-    font-weight: bold;
-    font-size: 3em;
-}
-header > P{
-    font-family:var(--fontedestaque);
-    color:#000000;
-=======
     box-shadow: 2px 2px 2px #000000d2;
 }
 header > h1{
@@ -61,15 +42,11 @@ header > p{
     font-size:1.1em;
     max-width: 510px;
     padding: 10px;
->>>>>>> a45d982 (adicionando estrutura do site, imagens , links e estilos)
 }
 nav{
     background-image: linear-gradient(to right,var(--AzulFrances),#fff,var(--Vermelho));
     padding: 10px;
-<<<<<<< HEAD
-=======
     text-shadow: 2px 2px 2px #000000b0;
->>>>>>> a45d982 (adicionando estrutura do site, imagens , links e estilos)
 }
 nav > a{
     font-family: var(--fontedestaque);
@@ -78,43 +55,6 @@ nav > a{
     color: #fff;
     padding:15px;
     margin: 5px;
-<<<<<<< HEAD
-}
-nav > a:hover{
-    background-color: #C1121F;
-    border-radius: 5px;
-    transition-duration: 0.5s;
-    padding: 10px;
-}
-main{
-    background-color: #b9c7d8;
-    margin:auto;
-    text-align: center;
-    padding: 40px;
-    margin:20px 30px 20px 30px;
-    border-radius: 10px;
-}
-main > h2{
-    font-size:2em;
-    padding: 10px;
-    margin: 10px;
-}
-main > h3{
-    font-family:var(--fontefrances) ;
-}
-main > img{
-    display: inline-block;
-    margin:auto;
-}
-.image{
-    display: inline-block;
-
-}
-main > a{
-    text-decoration: none;
-    text-align:end;
-}
-=======
 }
 nav > a:hover{
     background-color: #C1121F;
@@ -206,4 +146,3 @@ footer{
     margin-top: -10px;
     font-size:2em;
 }
->>>>>>> a45d982 (adicionando estrutura do site, imagens , links e estilos)
