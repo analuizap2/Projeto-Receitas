@@ -116,6 +116,12 @@ main > img{
     max-height: 100%;
 
 }
+div > a:hover{
+    padding: 50px;
+    background-color:transparent;
+    transition-duration: 2s;
+
+}
 .botoes-para-receitas{
     display: inline-block;
     text-decoration: none;
@@ -191,4 +197,9 @@ article > ul{
     font-family: var(--fontedestaque);
     font-size:1.5em;
     text-align: left;
+}
+.servir-boeuf{
+    max-width: 1061px;
+    text-align: center;
+    margin: auto;
 }
