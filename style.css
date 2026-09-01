@@ -146,3 +146,49 @@ footer{
     margin-top: -10px;
     font-size:2em;
 }
+.estilo-receita{
+    font-family: var(--fontefrances);
+    text-shadow: 2px 2px 2px #000000b7;
+    font-size: 2.5em;
+}
+article{
+    font-family: var(--fontefrances);
+    color:var(--branco);
+    background-image:linear-gradient(to right,#435773,#828FA2);
+    padding: 40px;
+    margin:20px 30px 20px 30px;
+    border-radius: 10px;
+    text-align: center;
+}
+article h2{
+    margin-top: -30px;
+    padding: 15px;
+}
+article > p{
+    padding: 5px;
+    font-size: 1.1em;
+    font-family: var(--fontedestaque);
+    text-shadow: 2px 2px 2px #000000cb;
+    text-align: justify;
+}
+.informacao{
+    padding: 5px;
+    margin:-5px;
+}
+article > ul{
+    font-weight: bolder;
+    padding: 30px;
+    font-family: var(--fontedestaque);
+    text-align: left;
+
+}
+.colunas{
+    padding: 30px;
+    columns: 2;
+    margin-left: 10px;
+}
+.preparo{
+    font-family: var(--fontedestaque);
+    font-size:1.5em;
+    text-align: left;
+}
