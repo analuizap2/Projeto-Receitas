@@ -203,3 +203,12 @@ article > ul{
     text-align: center;
     margin: auto;
 }
+.lista-receita{
+    font-size: 1.2em;
+    padding:10px;
+    margin:10px;
+}
+.passo-a-passo-receita{
+    padding:5px;
+    margin: 10px;
+}
