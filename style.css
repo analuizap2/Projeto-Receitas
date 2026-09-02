@@ -201,6 +201,7 @@ article > ul{
     text-align: left;
 }
 .servir-boeuf{
+    line-height: 1.5em;
     max-width: 1061px;
     text-align: center;
     margin: auto;
@@ -216,6 +217,7 @@ article > ul{
     text-shadow: 2px 2px 2px #000000b0;
 }
 .lista-croissant{
+    letter-spacing: 2px;
     margin:5px;
     padding: 10px;
     margin-left: -28px;
