@@ -154,7 +154,7 @@ footer{
 }
 .estilo-receita{
     font-family: var(--fontefrances);
-    text-shadow: 2px 2px 2px #000000b7;
+    text-shadow: 2px 2px 2px #000000cb;
     font-size: 2.5em;
 }
 article{
@@ -179,7 +179,9 @@ article > p{
 }
 .informacao{
     padding: 5px;
-    margin:-5px;
+    margin:10px;
+    text-shadow: 2px 2px 2px #000000b0;
+    text-align: center;
 }
 article > ul{
     font-weight: bolder;
@@ -211,4 +213,14 @@ article > ul{
 .passo-a-passo-receita{
     padding:5px;
     margin: 10px;
+    text-shadow: 2px 2px 2px #000000b0;
+}
+.lista-croissant{
+    margin:5px;
+    padding: 10px;
+    margin-left: -28px;
+    text-shadow: 2px 2px 2px #000000b0;
+}
+.sombra-texto{
+     text-shadow: 2px 2px 2px #000000b0;
 }
