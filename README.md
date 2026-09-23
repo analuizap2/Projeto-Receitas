@@ -1,84 +1,82 @@
-# 🇫🇷 Saveurs de France
+# Saveurs de France 🇫🇷
 
 > Uma viagem pelos sabores tradicionais da França.
 
-## 💡 Sobre o projeto
+## Sobre o projeto
 
-Este é o meu primeiro projeto desenvolvido do zero e de forma independente.
+O **Saveurs de France** foi o meu primeiro projeto desenvolvido do zero e de forma independente.
 
-Como primeiro projeto, queria criar algo que me ajudasse a desenvolver e colocar em prática tudo o que havia aprendido até o momento em HTML e CSS. Por isso, decidi criar um site de receitas que não fosse muito complexo, mas que me permitisse utilizar meus conhecimentos, praticar e melhorar minhas habilidades.
+Quando comecei, queria criar algo simples que me permitisse colocar em prática os conhecimentos de HTML e CSS que havia aprendido até aquele momento. Por isso, escolhi desenvolver um site de receitas, onde eu pudesse praticar a construção e organização de páginas sem criar algo muito complexo.
 
-A ideia inicial era criar apenas um site de receitas com pratos variados. Porém, durante o processo criativo, decidi mudar a proposta e criar um projeto inspirado na culinária francesa. A partir dessa ideia, desenvolvi a identidade visual do site utilizando cores inspiradas na bandeira da França.
+A ideia inicial era fazer um site com receitas variadas, mas durante o desenvolvimento decidi seguir um tema específico e escolhi a **culinária francesa**. A partir disso, adaptei o conteúdo e criei uma identidade visual inspirada nas cores da bandeira da França.
 
-## 🎯 Objetivo
+## Objetivo
 
-O principal objetivo do projeto foi colocar em prática os conhecimentos adquiridos durante meus estudos de HTML e CSS, além de aprender com os problemas que surgiram durante o desenvolvimento.
+O principal objetivo deste projeto foi praticar HTML e CSS em um projeto criado por mim desde o início.
 
-Ao longo do projeto, também pude desenvolver minha capacidade de encontrar soluções para diferentes desafios que apareceram durante o processo.
+Além de aplicar os conteúdos que já havia estudado, o desenvolvimento também me ajudou a perceber dificuldades que aparecem somente quando começamos a construir um projeto completo.
 
-## 🛠️ Tecnologias utilizadas
+Durante o processo, precisei pesquisar, testar diferentes soluções e corrigir problemas que surgiram no próprio site, o que tornou o projeto uma parte importante do meu aprendizado em Front-end.
 
-- HTML5
-- CSS3
+## Tecnologias utilizadas
 
-## 📚 O que pratiquei e aprendi
+* HTML5
+* CSS3
 
-Durante o desenvolvimento do projeto, pude praticar e aprofundar meus conhecimentos em:
+## Funcionalidades e conteúdo
 
-- HTML semântico
-- CSS3
-- Espaçamento e organização de elementos
-- Box Model
-- Tipografia
-- Harmonia e combinação de cores
-- Variáveis CSS
-- Classes
-- Listas
-- Links
-- Organização de páginas
-- Responsividade
+O site apresenta receitas inspiradas na culinária francesa, divididas entre pratos salgados e doces.
 
-Além de colocar esses conhecimentos em prática, também aprendi a solucionar problemas que foram surgindo durante o desenvolvimento do próprio site.
+As páginas das receitas possuem informações como:
 
-## 📱 Responsividade
+* Descrição da receita;
+* Tempo de preparo;
+* Ingredientes;
+* Modo de preparo;
+* Sugestões de como servir.
 
-Uma das maiores dificuldades que encontrei durante o desenvolvimento foi trabalhar com a responsividade.
+A identidade visual utiliza cores inspiradas na França para manter uma aparência relacionada ao tema escolhido.
 
-Tive dificuldades principalmente para deixar as imagens e os elementos organizados de forma adequada em diferentes tamanhos de tela e plataformas.
+## O que pratiquei
 
-O projeto ainda não possui uma responsividade 100% concluída, mas considero isso parte do meu processo de aprendizado. Conforme avanço nos meus estudos de HTML e CSS, pretendo aprimorar essa parte e corrigir os problemas que ainda existem.
+Durante o desenvolvimento, pude colocar em prática conhecimentos de:
 
-## 🇫🇷 Sobre o Saveurs de France
+* HTML semântico;
+* CSS;
+* Box Model;
+* Espaçamento e organização de elementos;
+* Tipografia;
+* Cores;
+* Variáveis CSS;
+* Classes;
+* Listas e links;
+* Organização de páginas;
+* Imagens;
+* Responsividade.
 
-O site foi desenvolvido com o objetivo de apresentar algumas receitas tradicionais da culinária francesa, organizadas entre pratos salgados e doces.
+Também tive a oportunidade de praticar a resolução de problemas. Algumas partes que pareciam simples quando estudadas separadamente se tornaram mais desafiadoras quando precisei aplicá-las em um projeto completo.
 
-A identidade visual foi inspirada nas cores da França, criando uma proposta simples e temática para o projeto.
+## Responsividade
 
-O site conta com páginas de receitas contendo informações como:
+A responsividade foi uma das partes mais difíceis do desenvolvimento.
 
-- Descrição da receita
-- Tempo de preparo
-- Ingredientes
-- Modo de preparo
-- Sugestões de como servir
+Tive principalmente dificuldade para manter imagens e outros elementos organizados em diferentes tamanhos de tela. Por ser meu primeiro projeto, essa parte ainda não ficou exatamente como eu gostaria.
 
-## 🚀 Próximos passos
+Decidi manter o projeto dessa forma porque ele também representa o meu nível de conhecimento naquele momento. Conforme avanço nos estudos, consigo identificar melhor os pontos que poderiam ser feitos de outra maneira.
 
-Como este é meu primeiro projeto, ainda existem pontos que quero melhorar.
+## Próximos passos
 
-Entre eles:
+Algumas melhorias que ainda pretendo realizar no projeto são:
 
-- Aprimorar a responsividade
-- Melhorar a adaptação das imagens em diferentes telas
-- Continuar aperfeiçoando o CSS
-- Aplicar novos conhecimentos conforme avanço nos meus estudos
+* Aprimorar a responsividade;
+* Melhorar a adaptação das imagens em diferentes tamanhos de tela;
+* Revisar e organizar algumas partes do CSS;
+* Aplicar novos conhecimentos conforme avanço nos estudos.
 
-## 👩‍💻 Sobre o desenvolvimento
+## Sobre o desenvolvimento
 
-Este projeto foi desenvolvido por mim, do zero e de forma independente, como parte da minha jornada de aprendizado em desenvolvimento Front-end.
+Este projeto tem um significado importante para mim por ter sido o primeiro que desenvolvi do zero e de forma independente.
 
-Mais do que o resultado final, este projeto representa uma oportunidade de colocar em prática o que aprendi, enfrentar dificuldades e continuar evoluindo.
+Durante sua criação, consegui colocar em prática conteúdos que havia estudado, mas também encontrei dificuldades e precisei buscar soluções para continuar desenvolvendo o site.
 
----
-
-✨ **Este é apenas o começo da minha jornada no desenvolvimento Front-end.**
+Mais do que apresentar um projeto finalizado, o **Saveurs de France** registra uma das primeiras etapas da minha evolução no desenvolvimento Front-end.

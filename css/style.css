@@ -1,11 +1,11 @@
 @charset 'UFT-8';
 @font-face {
     font-family:Playfair;
-    src: url(PlayfairDisplay-Italic-VariableFont_wght.ttf) format(truetype);
+    src: url(../fontes/PlayfairDisplay-Italic-VariableFont_wght.ttf) format(truetype);
 }
 @font-face {
     font-family:'Montserrat',serif;
-    src: url(Montserrat-Italic-VariableFont_wght.ttf) format(truetype);
+    src: url(../fontes/Montserrat-Italic-VariableFont_wght.ttf) format(truetype);
 }
 :root{
     --AzulFrances:#1D3557;
