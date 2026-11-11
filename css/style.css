@@ -1,4 +1,4 @@
-@charset 'UFT-8';
+@charset "UTF-8";
 @font-face {
     font-family:Playfair;
     src: url(../fontes/PlayfairDisplay-Italic-VariableFont_wght.ttf) format(truetype);
@@ -69,9 +69,10 @@ main{
     background-image:linear-gradient(to right,#435773,#828FA2);
     margin:auto;
     text-align: center;
-    padding: 40px;
+    padding: 10px;
     margin:20px 30px 20px 30px;
     border-radius: 10px;
+    padding-top: 40px;
 }
 main h1{
     color: var(--branco);
@@ -117,6 +118,7 @@ main > img{
     max-height: 100%;
     box-shadow: 2px 2px 2px #0000004d;
     background-color: #5e0f14;
+    margin-bottom: 20px;
 
 }
 div > a:hover{
